@@ -1,3 +1,10 @@
+/*
+ * Karl, Will, Shane
+ * April 21, 2014
+ * CS 311 HW7
+ * bstree.h: Implementation of BSTree, a Binary Search Tree
+ */
+
 #ifndef _BSTREE_H
 #define _BSTREE_H
 
